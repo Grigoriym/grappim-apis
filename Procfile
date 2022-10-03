@@ -1,0 +1,1 @@
+web: ./build/install/grappim-apis/bin/grappim-apis
